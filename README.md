@@ -28,3 +28,4 @@ Próximos estudos, resumos e artigos a escrever.
 ---
   - [ ] Fazer resumo da palestra da referência 1 (Workshop - computação quântica, 
   BB Digital Week);
+  - [ ] Adicionar as referências citadas na referência 2 (Quantum Computing for Computer scientists)
