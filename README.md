@@ -21,6 +21,7 @@ Lista de referências utilizadas até agora para o estudo
     4.5. [Como a Tranformada Rápida de Fourier (FFT) mudou o mundo! (Tranformada Quântica de Fourier)](https://www.tabnews.com.br/LeonardoSaads/como-a-tranformada-rapida-de-fourier-fft-mudou-o-mundo)
     4.6. [Futuro da computação quântica será para solucionar problemas específicos, diz especialista da AWS](https://www.tabnews.com.br/NewsletterOficial/futuro-da-computacao-quantica-sera-para-solucionar-problemas-especificos-diz-especialista-da-aws)
     4.7. [Quebra de criptografia por computação quântica é a maior questão de segurança nacional já enfrentada](https://www.tabnews.com.br/NewsletterOficial/quebra-de-criptografia-por-computacao-quantica-e-a-maior-questao-de-seguranca-nacional-ja-enfrentada)
+  5. [The Map of Quantum Computing | Quantum Computers Explained](https://youtu.be/-UlxHPIEVqA)
 
 ## Plano de ação
 
@@ -28,4 +29,7 @@ Próximos estudos, resumos e artigos a escrever.
 ---
   - [ ] Fazer resumo da palestra da referência 1 (Workshop - computação quântica, 
   BB Digital Week);
+  - [ ] Fazer um resumo explicativo da referência 2 (Quantum Computing for Computer scientists)
   - [ ] Adicionar as referências citadas na referência 2 (Quantum Computing for Computer scientists)
+  - [ ] Transcrever a referência 4 e fazer um resumo (The Map of Quantum Computing)
+  - [ ] Adicionar as referências citadas na referência 4 (The Map of Quantum Computing)
